@@ -23,7 +23,7 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor Java Júnior
 
 ## 📂 Projetos em destaque
 
-* 🔗 https://github.com/miguellessa/dio-lab-open-source
+* 🔗 https://github.com/miguellessa/sistema-estoque
 
 ## 📊 Estatísticas
 
