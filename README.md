@@ -24,6 +24,7 @@ Busco minha primeira oportunidade como estagiário ou desenvolvedor Java Júnior
 ## 📂 Projetos em destaque
 
 * 🔗 https://github.com/miguellessa/sistema-estoque
+* 🔗 https://github.com/miguellessa/sistema-bancario-java
 
 ## 📊 Estatísticas
 
